@@ -10,6 +10,10 @@ A RESTful Web API for managing tasks, built with **ASP.NET Core 8** and **Entity
 - **Swagger UI** with auto-generated interactive documentation
 - **In-memory database** — no external DB setup required
 
+<img width="999" height="630" alt="image" src="https://github.com/user-attachments/assets/09e748c7-65ba-4911-ad2a-f90ad0b38fd2" />
+
+<img width="976" height="518" alt="image" src="https://github.com/user-attachments/assets/5f1aee8d-cd49-41af-a1e5-1890efe9d7d8" />
+
 ## Tech Stack
 
 | Layer | Technology |
