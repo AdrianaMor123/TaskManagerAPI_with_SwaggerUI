@@ -84,3 +84,7 @@ TaskManagerAPI/
 - Switch to SQL Server or PostgreSQL
 - Add pagination to the GET all endpoint
 - Add unit tests with xUnit
+---
+ ## What i learned
+
+ While building the Task Manager API, I developed a solid understanding of how to design and implement a RESTful web service using ASP.NET Core 8 and Entity Framework Core. I learned how to structure a clean and maintainable backend by separating concerns into controllers, models, DTOs, and data layers. Implementing full CRUD operations helped me better understand HTTP methods, routing, and handling requests and responses effectively. I also gained experience with input validation and returning meaningful error messages, which improved the overall reliability and usability of the API. Using an in-memory database allowed me to quickly prototype and test functionality without complex setup, while Swagger helped me explore and document endpoints in an interactive way. Overall, this project strengthened my backend development skills and gave me a clearer perspective on building scalable and well-structured APIs.
